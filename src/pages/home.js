@@ -3,7 +3,7 @@ import GoogleFonts from "next-google-fonts";
 const Home = () => {
   return (
     <>
-      <GoogleFonts href="https://lh3.googleusercontent.com/ogw/ADea4I41vCehRd1Wq1QcDdw7ynP0NnwGaCLa5lMbs62d=s83-c-mo" />
+      <GoogleFonts href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&family=Source+Sans+Pro:wght@300;400;600;700&display=swap" />
       <div
         className="relative flex flex-col items-center justify-center p-16 text-gray-100 bg-gray-900 shadow-md gap-14"
         style={{ width: 1200, height: 630 }}
@@ -21,7 +21,7 @@ const Home = () => {
         <div className="flex justify-between">
           <div className="flex items-center space-x-6">
             <img
-              src="https://pbs.twimg.com/profile_images/1220392920538386432/NuYyL5b5_400x400.jpg"
+              src="https://lh3.googleusercontent.com/ogw/ADea4I41vCehRd1Wq1QcDdw7ynP0NnwGaCLa5lMbs62d=s83-c-mo"
               alt="Rajdeep Malakar"
               className="flex-none w-32 h-32 border-4 border-gray-200 rounded-full handsome"
             />
